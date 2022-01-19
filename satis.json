@@ -1,0 +1,13 @@
+{
+  "name": "bellyfashion/satis",
+  "homepage": "https://bellyfashion.github.io/satis/",
+  "repositories": [
+    {
+      "packagist": false
+    },
+    {
+      "firegento": false
+    }
+  ],
+  "require-all": true
+}
