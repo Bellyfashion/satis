@@ -3,6 +3,10 @@
   "homepage": "https://bellyfashion.github.io/satis/",
   "repositories": [
     {
+      "type": "vcs",
+      "url": "git@github.com:Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack.git"
+    },
+    {
       "packagist": false
     },
     {
