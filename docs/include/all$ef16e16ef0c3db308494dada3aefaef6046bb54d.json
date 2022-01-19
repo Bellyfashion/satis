@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack.git",
-                    "reference": "1cec75b356cb1f22f89d8232dd5e9923114b04a8"
+                    "reference": "c452c541e99d3d67fb1bdaad6d28be74c90eb55f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack/zipball/1cec75b356cb1f22f89d8232dd5e9923114b04a8",
-                    "reference": "1cec75b356cb1f22f89d8232dd5e9923114b04a8",
+                    "url": "https://api.github.com/repos/Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack/zipball/c452c541e99d3d67fb1bdaad6d28be74c90eb55f",
+                    "reference": "c452c541e99d3d67fb1bdaad6d28be74c90eb55f",
                     "shasum": ""
                 },
                 "require": {
                     "mageplaza/module-core": "^1.3.13"
                 },
-                "time": "2022-01-15T10:22:58+00:00",
+                "time": "2022-01-19T11:01:38+00:00",
                 "default-branch": true,
                 "type": "magento2-language",
                 "autoload": {
