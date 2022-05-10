@@ -7,6 +7,10 @@
       "url": "git@github.com:Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack.git"
     },
     {
+      "type": "vcs",
+      "url": "git@github.com:Bellyfashion/Yireo_GoogleTagManager2.git"
+    },
+    {
       "packagist": false
     },
     {

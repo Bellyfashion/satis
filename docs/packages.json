@@ -1,12 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$fd8af2d640e00c6bb01cc9d98f4dd7f02141fbb6.json": {
-            "sha1": "fd8af2d640e00c6bb01cc9d98f4dd7f02141fbb6"
+        "include/all$2f8032304b87e2c23eb1951a6d5fe0e08b1698aa.json": {
+            "sha1": "2f8032304b87e2c23eb1951a6d5fe0e08b1698aa"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
-        "bellyfashion/mageplaza-magento-2-dutch-language-pack"
+        "bellyfashion/mageplaza-magento-2-dutch-language-pack",
+        "yireo/magento2-googletagmanager2"
     ]
 }
