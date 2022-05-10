@@ -1,0 +1,3695 @@
+{
+    "packages": {
+        "bellyfashion/mageplaza-magento-2-dutch-language-pack": {
+            "dev-master": {
+                "name": "bellyfashion/mageplaza-magento-2-dutch-language-pack",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack.git",
+                    "reference": "6ac32e2be84ae5e865269b8b3b9eb34793afddd0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack/zipball/6ac32e2be84ae5e865269b8b3b9eb34793afddd0",
+                    "reference": "6ac32e2be84ae5e865269b8b3b9eb34793afddd0",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.13.1"
+                },
+                "time": "2022-02-09T10:22:32+00:00",
+                "default-branch": true,
+                "type": "magento2-language",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza team",
+                        "email": "hi@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Leader"
+                    }
+                ],
+                "description": "Dutch language package for Magento 2",
+                "homepage": "https://www.mageplaza.com",
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack/tree/master"
+                }
+            }
+        },
+        "bellyfashion/yireo-magento2-googletagmanager2": {
+            "0.1.0": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "09f370a20046823bb56453e4bb2593a714d000ba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/09f370a20046823bb56453e4bb2593a714d000ba",
+                    "reference": "09f370a20046823bb56453e4bb2593a714d000ba",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": ">=5.6.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2015-12-26T09:19:43+00:00",
+                "type": "magento2-module",
+                "extra": {
+                    "map": [
+                        [
+                            "source/*",
+                            "Yireo/GoogleTagManager2"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.1.0"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.2.0": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "9176b5ff71bf2cb080a80e449f1c1202d8bc932c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/9176b5ff71bf2cb080a80e449f1c1202d8bc932c",
+                    "reference": "9176b5ff71bf2cb080a80e449f1c1202d8bc932c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": ">=5.6.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2015-12-26T13:07:50+00:00",
+                "type": "magento2-module",
+                "extra": {
+                    "map": [
+                        [
+                            "source/*",
+                            "Yireo/GoogleTagManager2"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.2.0"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.2.1": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "502dd4fe7a6cc4ca4b115ae6bc94cb4e76d41e79"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/502dd4fe7a6cc4ca4b115ae6bc94cb4e76d41e79",
+                    "reference": "502dd4fe7a6cc4ca4b115ae6bc94cb4e76d41e79",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": ">=5.6.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2016-04-04T14:37:58+00:00",
+                "type": "magento2-module",
+                "extra": {
+                    "map": [
+                        [
+                            "source/*",
+                            "Yireo/GoogleTagManager2"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.2.1"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.2.2": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "2d170a7873658a03bcd16b2e8e085570a736925d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/2d170a7873658a03bcd16b2e8e085570a736925d",
+                    "reference": "2d170a7873658a03bcd16b2e8e085570a736925d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": ">=5.6.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2016-04-10T07:54:12+00:00",
+                "type": "magento2-module",
+                "extra": {
+                    "map": [
+                        [
+                            "source/*",
+                            "Yireo/GoogleTagManager2"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.2.2"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.2.3": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.2.3",
+                "version_normalized": "0.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "9a08ab77ecc74b07241552e71a34456014954095"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/9a08ab77ecc74b07241552e71a34456014954095",
+                    "reference": "9a08ab77ecc74b07241552e71a34456014954095",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": ">=5.6.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2016-04-10T08:26:54+00:00",
+                "type": "magento2-module",
+                "extra": {
+                    "map": [
+                        [
+                            "source/*",
+                            "Yireo/GoogleTagManager2"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.2.3"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.2.4": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.2.4",
+                "version_normalized": "0.2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "45c27ac74e28d75a1a35a2189a712f0a5de57a2a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/45c27ac74e28d75a1a35a2189a712f0a5de57a2a",
+                    "reference": "45c27ac74e28d75a1a35a2189a712f0a5de57a2a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": ">=5.6.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2016-06-23T13:36:17+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": "source"
+                    },
+                    "files": [
+                        "source/registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.2.4"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.2.5": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.2.5",
+                "version_normalized": "0.2.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "faa183f9450ee0ebd068dcc59b4b0102094bbca9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/faa183f9450ee0ebd068dcc59b4b0102094bbca9",
+                    "reference": "faa183f9450ee0ebd068dcc59b4b0102094bbca9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": ">=5.6.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2016-07-22T16:10:23+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": "source"
+                    },
+                    "files": [
+                        "source/registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.2.5"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.2.6": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.2.6",
+                "version_normalized": "0.2.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "2cf4c940cd2361535fffe366eca156118b73ec6d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/2cf4c940cd2361535fffe366eca156118b73ec6d",
+                    "reference": "2cf4c940cd2361535fffe366eca156118b73ec6d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": ">=5.6.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2017-06-04T12:17:02+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.2.6"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.0": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "0c9f4f04eeef72224e8c2c28be5d98d7f3b2a828"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/0c9f4f04eeef72224e8c2c28be5d98d7f3b2a828",
+                    "reference": "0c9f4f04eeef72224e8c2c28be5d98d7f3b2a828",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2017-08-12T10:34:39+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.0"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.1": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.1",
+                "version_normalized": "0.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "6c8986a7f937b63fb4f2887ca06508bd52c72314"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/6c8986a7f937b63fb4f2887ca06508bd52c72314",
+                    "reference": "6c8986a7f937b63fb4f2887ca06508bd52c72314",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2017-08-18T10:28:59+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.1"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.10": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.10",
+                "version_normalized": "0.3.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "b421dac0dfb84224a438765da7ea8aca6c2ac5ef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/b421dac0dfb84224a438765da7ea8aca6c2ac5ef",
+                    "reference": "b421dac0dfb84224a438765da7ea8aca6c2ac5ef",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-catalog": "^100.1|^101.0|^102.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2018-05-09T16:35:52+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.10"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.11": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.11",
+                "version_normalized": "0.3.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "bb06d52c5224ea4e9ad8a8acd59121b011fbfbb9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/bb06d52c5224ea4e9ad8a8acd59121b011fbfbb9",
+                    "reference": "bb06d52c5224ea4e9ad8a8acd59121b011fbfbb9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-catalog": "^100.1|^101.0|^102.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2018-05-22T07:08:34+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.11"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.12": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.12",
+                "version_normalized": "0.3.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "caa4c57e366b3263f92b37b02c56bbf8ef6dd4fc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/caa4c57e366b3263f92b37b02c56bbf8ef6dd4fc",
+                    "reference": "caa4c57e366b3263f92b37b02c56bbf8ef6dd4fc",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-catalog": "^100.1|^101.0|^102.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2018-06-06T12:31:42+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.12"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.13": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.13",
+                "version_normalized": "0.3.13.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "e3ef0408d42fa20b6eab12d5d6acb17e4b59b1ba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/e3ef0408d42fa20b6eab12d5d6acb17e4b59b1ba",
+                    "reference": "e3ef0408d42fa20b6eab12d5d6acb17e4b59b1ba",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-catalog": "^100.1|^101.0|^102.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "mockery/mockery": "^1.1",
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2018-08-13T09:09:39+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.13"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.15": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.15",
+                "version_normalized": "0.3.15.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "a6e4a0fa96790c46334912afe7759f3a3f4be16c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/a6e4a0fa96790c46334912afe7759f3a3f4be16c",
+                    "reference": "a6e4a0fa96790c46334912afe7759f3a3f4be16c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-customer": "^100.1|^101.0|^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "mockery/mockery": "^1.1",
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2018-11-29T20:40:18+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.15"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.16": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.16",
+                "version_normalized": "0.3.16.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "0e2db4bde301ed489c77ca74ce8ef1d18a1d92d3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/0e2db4bde301ed489c77ca74ce8ef1d18a1d92d3",
+                    "reference": "0e2db4bde301ed489c77ca74ce8ef1d18a1d92d3",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-customer": "^100.1|^101.0|^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "mockery/mockery": "^1.1",
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2019-02-04T15:45:43+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.16"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.17": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.17",
+                "version_normalized": "0.3.17.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "2e80ff3f0590e9810721d581b4c403d20e714314"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/2e80ff3f0590e9810721d581b4c403d20e714314",
+                    "reference": "2e80ff3f0590e9810721d581b4c403d20e714314",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-customer": "^100.1|^101.0|^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "mockery/mockery": "^1.1",
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2019-02-11T17:26:13+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.17"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.18": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.18",
+                "version_normalized": "0.3.18.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "05553a96d62489f070f0972202ce3f4091877495"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/05553a96d62489f070f0972202ce3f4091877495",
+                    "reference": "05553a96d62489f070f0972202ce3f4091877495",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-customer": "^100.1|^101.0|^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "mockery/mockery": "^1.1",
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2019-02-22T16:14:56+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.18"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.3": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.3",
+                "version_normalized": "0.3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "beb3e46fcd0ca96f405caa1de152c087d937324a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/beb3e46fcd0ca96f405caa1de152c087d937324a",
+                    "reference": "beb3e46fcd0ca96f405caa1de152c087d937324a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2017-08-25T14:23:21+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.3"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.4": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.4",
+                "version_normalized": "0.3.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "189df9133ed176f67a080980b4d18448a7b00e17"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/189df9133ed176f67a080980b4d18448a7b00e17",
+                    "reference": "189df9133ed176f67a080980b4d18448a7b00e17",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^100.1.0|^101.0.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2017-09-12T16:43:55+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.4"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.5": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.5",
+                "version_normalized": "0.3.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "846cd1bc4cf709611b46347ca8f7f9c6824edd49"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/846cd1bc4cf709611b46347ca8f7f9c6824edd49",
+                    "reference": "846cd1bc4cf709611b46347ca8f7f9c6824edd49",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-catalog": "^100.1|^101.0|^102.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2017-10-22T10:15:15+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.5"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.6": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.6",
+                "version_normalized": "0.3.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "bcd9174df1fa40644cc28f6a6b8097b6c6d67da2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/bcd9174df1fa40644cc28f6a6b8097b6c6d67da2",
+                    "reference": "bcd9174df1fa40644cc28f6a6b8097b6c6d67da2",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-catalog": "^100.1|^101.0|^102.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2017-11-28T08:10:20+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.6"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.7": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.7",
+                "version_normalized": "0.3.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "0955bd34b608751b6ce938e7aa8da3e2ac476534"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/0955bd34b608751b6ce938e7aa8da3e2ac476534",
+                    "reference": "0955bd34b608751b6ce938e7aa8da3e2ac476534",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-catalog": "^100.1|^101.0|^102.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2018-02-21T19:03:42+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.7"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.8": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.8",
+                "version_normalized": "0.3.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "cac00f0555174b5ca3f9b38ce46d8b8a4975b1eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/cac00f0555174b5ca3f9b38ce46d8b8a4975b1eb",
+                    "reference": "cac00f0555174b5ca3f9b38ce46d8b8a4975b1eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-catalog": "^100.1|^101.0|^102.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2018-04-26T14:45:49+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.8"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "0.3.9": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "0.3.9",
+                "version_normalized": "0.3.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "631cbe43d4e2a2f2c2c69ab15e91cb90689947ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/631cbe43d4e2a2f2c2c69ab15e91cb90689947ce",
+                    "reference": "631cbe43d4e2a2f2c2c69ab15e91cb90689947ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/module-catalog": "^100.1|^101.0|^102.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2018-05-01T10:42:08+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/0.3.9"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "1.0.0": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "2380577800fca501aba05b6ea27682cedac13e77"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/2380577800fca501aba05b6ea27682cedac13e77",
+                    "reference": "2380577800fca501aba05b6ea27682cedac13e77",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^102.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-customer": "^100.1|^101.0|^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "mockery/mockery": "^1.1",
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2019-02-22T16:48:32+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/1.0.0"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "1.0.1": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "4020d1d3f27c3025039bfee02607e8057614659a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/4020d1d3f27c3025039bfee02607e8057614659a",
+                    "reference": "4020d1d3f27c3025039bfee02607e8057614659a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^101.0|^102.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-customer": "^100.1|^101.0|^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "mockery/mockery": "^1.1",
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2019-03-13T06:48:15+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/1.0.1"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "1.0.2": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "8f0270199b52f4b59f236bfa08445b7d0234a595"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/8f0270199b52f4b59f236bfa08445b7d0234a595",
+                    "reference": "8f0270199b52f4b59f236bfa08445b7d0234a595",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "magento/framework": "^101.0|^102.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-customer": "^100.1|^101.0|^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "mockery/mockery": "^1.1",
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2019-06-15T19:53:51+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/1.0.2"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "1.0.3": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "1ef3e334b99592eb240762ddc2033c6ba3fa0b3f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/1ef3e334b99592eb240762ddc2033c6ba3fa0b3f",
+                    "reference": "1ef3e334b99592eb240762ddc2033c6ba3fa0b3f",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.0|^102.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "mockery/mockery": "^1.1",
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2019-08-07T08:02:57+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/1.0.3"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "1.1.0": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "8a6c3d183eb89d1c315bc2dcbc076a741d14b427"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/8a6c3d183eb89d1c315bc2dcbc076a741d14b427",
+                    "reference": "8a6c3d183eb89d1c315bc2dcbc076a741d14b427",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.0|^102.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "mockery/mockery": "^1.1",
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2019-11-23T17:45:40+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/1.1.0"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "1.1.1": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "8b429a450628c9dd68b3d67116affbd535fbca6d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/8b429a450628c9dd68b3d67116affbd535fbca6d",
+                    "reference": "8b429a450628c9dd68b3d67116affbd535fbca6d",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.0|^102.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "mockery/mockery": "^1.1",
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2020-02-10T18:30:18+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/1.1.1"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "1.1.2": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "117f3ce49c27baebde9f233dbeaded6589050790"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/117f3ce49c27baebde9f233dbeaded6589050790",
+                    "reference": "117f3ce49c27baebde9f233dbeaded6589050790",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.0|^102.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "mockery/mockery": "^1.1",
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2020-03-31T16:26:43+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/1.1.2"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "1.1.3": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "1bfe50587875597e1080e6cf36f425aef8b9b707"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/1bfe50587875597e1080e6cf36f425aef8b9b707",
+                    "reference": "1bfe50587875597e1080e6cf36f425aef8b9b707",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.0|^102.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "mockery/mockery": "^1.1",
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2020-05-30T08:45:46+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/1.1.3"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.0.1": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "e3e136833c8829140d83c9f47f417e03eb4d0987"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/e3e136833c8829140d83c9f47f417e03eb4d0987",
+                    "reference": "e3e136833c8829140d83c9f47f417e03eb4d0987",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.0|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2020-07-29T09:40:21+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.0.1"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.0.2": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "6408d9896264a67379f53bf7f8620bfb6024cc18"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/6408d9896264a67379f53bf7f8620bfb6024cc18",
+                    "reference": "6408d9896264a67379f53bf7f8620bfb6024cc18",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.0|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2020-10-28T10:09:16+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.0.2"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.0.3": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "1b877d7ef0de3dfe038f00c72b289448b6982f8e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/1b877d7ef0de3dfe038f00c72b289448b6982f8e",
+                    "reference": "1b877d7ef0de3dfe038f00c72b289448b6982f8e",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.0|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2020-10-29T12:57:32+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.0.3"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.0.4": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.0.4",
+                "version_normalized": "2.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "bb664034c86bfaf9a8f16f2bac9896bef67f21ac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/bb664034c86bfaf9a8f16f2bac9896bef67f21ac",
+                    "reference": "bb664034c86bfaf9a8f16f2bac9896bef67f21ac",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.0|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2021-04-30T12:25:41+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.0.4"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.0.5": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "e8d40bad1dfd37c2eedd0978498505269614b3a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/e8d40bad1dfd37c2eedd0978498505269614b3a4",
+                    "reference": "e8d40bad1dfd37c2eedd0978498505269614b3a4",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.0|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2021-05-05T12:36:08+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.0.5"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.1.0": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "120cae5fd870dd7a5d5786b6ea87a0dbc05a7c95"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/120cae5fd870dd7a5d5786b6ea87a0dbc05a7c95",
+                    "reference": "120cae5fd870dd7a5d5786b6ea87a0dbc05a7c95",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.2|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2021-07-10T13:06:40+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.0"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.1.1": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "b6b18b13eebfb6b6d8056a49281c09fd05aa396f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/b6b18b13eebfb6b6d8056a49281c09fd05aa396f",
+                    "reference": "b6b18b13eebfb6b6d8056a49281c09fd05aa396f",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.2|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2021-07-13T14:03:01+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.1"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.1.2": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "4df6e760484dcfeb7e217ef6ddee9fdd6db5c1b6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/4df6e760484dcfeb7e217ef6ddee9fdd6db5c1b6",
+                    "reference": "4df6e760484dcfeb7e217ef6ddee9fdd6db5c1b6",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.2|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2021-07-29T11:07:00+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.2"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.1.3": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.1.3",
+                "version_normalized": "2.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "d19f8c41bf15ced85fe48b570d6da5d7e9179797"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/d19f8c41bf15ced85fe48b570d6da5d7e9179797",
+                    "reference": "d19f8c41bf15ced85fe48b570d6da5d7e9179797",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.2|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2021-09-23T14:13:46+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.3"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.1.4": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.1.4",
+                "version_normalized": "2.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "0f6fcaf4491179842e39e0f9ccc479e037888316"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/0f6fcaf4491179842e39e0f9ccc479e037888316",
+                    "reference": "0f6fcaf4491179842e39e0f9ccc479e037888316",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.2|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2022-02-17T15:05:32+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.4"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.1.5": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.1.5",
+                "version_normalized": "2.1.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "1a4b10e299d5aba29500a2cf478ce94a3b87f481"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/1a4b10e299d5aba29500a2cf478ce94a3b87f481",
+                    "reference": "1a4b10e299d5aba29500a2cf478ce94a3b87f481",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.2|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2022-03-21T16:04:57+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.5"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.1.6": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.1.6",
+                "version_normalized": "2.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "3922c84d47d7431b99e4235c29a0a6b85f071742"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/3922c84d47d7431b99e4235c29a0a6b85f071742",
+                    "reference": "3922c84d47d7431b99e4235c29a0a6b85f071742",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.2|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2022-03-23T18:32:36+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.6"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.1.7": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.1.7",
+                "version_normalized": "2.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "88e96d45bf1362868fdc17ee890fab85298be9dd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/88e96d45bf1362868fdc17ee890fab85298be9dd",
+                    "reference": "88e96d45bf1362868fdc17ee890fab85298be9dd",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.2|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2022-03-31T09:47:13+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.7"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.1.7.1": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.1.7.1",
+                "version_normalized": "2.1.7.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "271736ec521254483a66ab21e74ad9f2b0d109d2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/271736ec521254483a66ab21e74ad9f2b0d109d2",
+                    "reference": "271736ec521254483a66ab21e74ad9f2b0d109d2",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.2|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2022-05-04T14:22:00+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.7.1"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.1.7.2": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.1.7.2",
+                "version_normalized": "2.1.7.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "d1a24c5260270fa9b9c30c0f8ef85569ba8c50ba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/d1a24c5260270fa9b9c30c0f8ef85569ba8c50ba",
+                    "reference": "d1a24c5260270fa9b9c30c0f8ef85569ba8c50ba",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.2|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2022-05-10T14:01:24+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.7.2"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "2.1.7.3": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "2.1.7.3",
+                "version_normalized": "2.1.7.3",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "1ac9ea975d5419065a94894ebe6135880e79ca22"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/1ac9ea975d5419065a94894ebe6135880e79ca22",
+                    "reference": "1ac9ea975d5419065a94894ebe6135880e79ca22",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.2|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2022-05-10T14:14:24+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.7.3"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "dev-develop": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "399f74ac4465fd50437dab22272e364aa6fbda21"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/399f74ac4465fd50437dab22272e364aa6fbda21",
+                    "reference": "399f74ac4465fd50437dab22272e364aa6fbda21",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.2|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2022-05-10T14:14:24+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/develop"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            },
+            "dev-master": {
+                "name": "bellyfashion/yireo-magento2-googletagmanager2",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
+                    "reference": "1ac9ea975d5419065a94894ebe6135880e79ca22"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/1ac9ea975d5419065a94894ebe6135880e79ca22",
+                    "reference": "1ac9ea975d5419065a94894ebe6135880e79ca22",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-pcre": "*",
+                    "magento/framework": "^101.2|^102.0|^103.0",
+                    "magento/module-catalog": "^100.1|^101.0|^102.0|^103.0|^104.0",
+                    "magento/module-checkout": "^100.1",
+                    "magento/module-cookie": "^100.0",
+                    "magento/module-customer": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-quote": "^100.1|^101.0",
+                    "magento/module-sales": "^100.1|^101.0|^102.0|^103.0",
+                    "magento/module-store": "^100.1|^101.0",
+                    "php": ">=7.2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~6.0"
+                },
+                "time": "2022-05-10T14:14:24+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Yireo\\GoogleTagManager2\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "scripts": {
+                    "post-install-cmd": [
+                        "mkdir -p dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/",
+                        "cp -R vendor/yireo/magento2-googletagmanager2/view/frontend/web/js/jasmine-test/* dev/tests/js/jasmine/tests/app/code/Yireo/GoogleTagManager2/"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add Google Tag Manager to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/googletagmanager2",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.7.3"
+                },
+                "funding": [
+                    {
+                        "type": "github",
+                        "url": "https://github.com/yireo"
+                    },
+                    {
+                        "type": "custom",
+                        "url": "https://www.paypal.me/yireo"
+                    }
+                ]
+            }
+        }
+    }
+}
