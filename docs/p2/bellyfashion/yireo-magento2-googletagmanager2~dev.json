@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
-                    "reference": "399f74ac4465fd50437dab22272e364aa6fbda21"
+                    "reference": "9e178323fc3e5f2c051b71964788c3a5fb6f04c2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/399f74ac4465fd50437dab22272e364aa6fbda21",
-                    "reference": "399f74ac4465fd50437dab22272e364aa6fbda21",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/9e178323fc3e5f2c051b71964788c3a5fb6f04c2",
+                    "reference": "9e178323fc3e5f2c051b71964788c3a5fb6f04c2",
                     "shasum": ""
                 },
                 "require": {
@@ -33,7 +33,7 @@
                 "require-dev": {
                     "phpunit/phpunit": "~6.0"
                 },
-                "time": "2022-05-10T14:14:24+00:00",
+                "time": "2022-05-16T12:52:45+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "psr-4": {
@@ -85,12 +85,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2.git",
-                    "reference": "1ac9ea975d5419065a94894ebe6135880e79ca22"
+                    "reference": "5fa4242c98927d6a0e1c73037c6dd8dcf1d84784"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/1ac9ea975d5419065a94894ebe6135880e79ca22",
-                    "reference": "1ac9ea975d5419065a94894ebe6135880e79ca22",
+                    "url": "https://api.github.com/repos/Bellyfashion/Yireo_GoogleTagManager2/zipball/5fa4242c98927d6a0e1c73037c6dd8dcf1d84784",
+                    "reference": "5fa4242c98927d6a0e1c73037c6dd8dcf1d84784",
                     "shasum": ""
                 },
                 "require": {
@@ -110,7 +110,7 @@
                 "require-dev": {
                     "phpunit/phpunit": "~6.0"
                 },
-                "time": "2022-05-10T14:14:24+00:00",
+                "time": "2022-05-16T12:52:18+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -143,7 +143,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.7.3"
+                    "source": "https://github.com/Bellyfashion/Yireo_GoogleTagManager2/tree/2.1.7.4"
                 },
                 "funding": [
                     {
