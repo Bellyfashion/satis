@@ -9,12 +9,6 @@
     {
       "type": "vcs",
       "url": "git@github.com:Bellyfashion/Yireo_GoogleTagManager2.git"
-    },
-    {
-      "packagist": false
-    },
-    {
-      "firegento": false
     }
   ],
   "require-all": true
