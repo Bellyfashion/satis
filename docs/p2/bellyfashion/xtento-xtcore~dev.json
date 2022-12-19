@@ -94,7 +94,7 @@
                 "description": "XTENTO Core Module",
                 "support": {
                     "email": "info@xtento.com",
-                    "source": "https://github.com/Bellyfashion/xtento_xtcore/tree/main",
+                    "source": "https://github.com/Bellyfashion/xtento_xtcore/tree/2.17.0.1",
                     "issues": "https://github.com/Bellyfashion/xtento_xtcore/issues"
                 }
             }
