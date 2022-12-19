@@ -1,0 +1,526 @@
+{
+    "packages": {
+        "bellyfashion/mageplaza-magento-2-dutch-language-pack": {
+            "1.3.13.2": {
+                "name": "bellyfashion/mageplaza-magento-2-dutch-language-pack",
+                "version": "1.3.13.2",
+                "version_normalized": "1.3.13.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack.git",
+                    "reference": "0684579ae4893185a64dce2a3ecab6ee6be5de70"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack/zipball/0684579ae4893185a64dce2a3ecab6ee6be5de70",
+                    "reference": "0684579ae4893185a64dce2a3ecab6ee6be5de70",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.13.2"
+                },
+                "time": "2022-11-25T13:36:17+00:00",
+                "type": "magento2-language",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza team",
+                        "email": "hi@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Leader"
+                    }
+                ],
+                "description": "Dutch language package for Magento 2",
+                "homepage": "https://www.mageplaza.com",
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack/tree/1.3.13.2"
+                }
+            },
+            "dev-master": {
+                "name": "bellyfashion/mageplaza-magento-2-dutch-language-pack",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack.git",
+                    "reference": "0684579ae4893185a64dce2a3ecab6ee6be5de70"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack/zipball/0684579ae4893185a64dce2a3ecab6ee6be5de70",
+                    "reference": "0684579ae4893185a64dce2a3ecab6ee6be5de70",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.13.2"
+                },
+                "time": "2022-11-25T13:36:17+00:00",
+                "default-branch": true,
+                "type": "magento2-language",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza team",
+                        "email": "hi@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Leader"
+                    }
+                ],
+                "description": "Dutch language package for Magento 2",
+                "homepage": "https://www.mageplaza.com",
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack/tree/1.3.13.2"
+                }
+            }
+        },
+        "bellyfashion/xtento-pdfcustomizer": {
+            "2.14.3.1": {
+                "name": "bellyfashion/xtento-pdfcustomizer",
+                "version": "2.14.3.1",
+                "version_normalized": "2.14.3.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Bellyfashion/xtento_pdfcustomizer.git",
+                    "reference": "8ee6273eb62fa4b8aac55bf1e81703eccbb4d1a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/xtento_pdfcustomizer/zipball/8ee6273eb62fa4b8aac55bf1e81703eccbb4d1a1",
+                    "reference": "8ee6273eb62fa4b8aac55bf1e81703eccbb4d1a1",
+                    "shasum": ""
+                },
+                "require": {
+                    "bellyfashion/xtento-xtcore": "~2.0",
+                    "magento/framework": "^100.0||^101.0||^102.0||^103.0",
+                    "magento/module-backend": "^100.0||^101.0||^102.0",
+                    "magento/module-sales": "^100.0||^101.0||^102.0||^103.0",
+                    "mpdf/mpdf": "^8.0",
+                    "mpdf/qrcode": "^1.0",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0"
+                },
+                "require-dev": {
+                    "phpmd/phpmd": "^2.3",
+                    "phpunit/phpunit": "^4.8",
+                    "satooshi/php-coveralls": "^1.0",
+                    "sebastian/phpcpd": "^2.0",
+                    "squizlabs/php_codesniffer": "^2.5"
+                },
+                "time": "2022-12-19T14:02:41+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Xtento\\PdfCustomizer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "XTENTO GmbH & Co. KG",
+                        "email": "info@xtento.com",
+                        "homepage": "http://www.xtento.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "XTENTO PDF Customizer to customize invoice PDFs and more",
+                "support": {
+                    "email": "info@xtento.com",
+                    "source": "https://github.com/Bellyfashion/xtento_pdfcustomizer/tree/2.14.3.1",
+                    "issues": "https://github.com/Bellyfashion/xtento_pdfcustomizer/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "bellyfashion/xtento-pdfcustomizer",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Bellyfashion/xtento_pdfcustomizer.git",
+                    "reference": "366050662dccc0a8331662f25768c4ab6192f22a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/xtento_pdfcustomizer/zipball/366050662dccc0a8331662f25768c4ab6192f22a",
+                    "reference": "366050662dccc0a8331662f25768c4ab6192f22a",
+                    "shasum": ""
+                },
+                "require": {
+                    "bellyfashion/xtento-xtcore": "~2.0",
+                    "magento/framework": "^100.0||^101.0||^102.0||^103.0",
+                    "magento/module-backend": "^100.0||^101.0||^102.0",
+                    "magento/module-sales": "^100.0||^101.0||^102.0||^103.0",
+                    "mpdf/mpdf": "^8.0",
+                    "mpdf/qrcode": "^1.0",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0"
+                },
+                "require-dev": {
+                    "phpmd/phpmd": "^2.3",
+                    "phpunit/phpunit": "^4.8",
+                    "satooshi/php-coveralls": "^1.0",
+                    "sebastian/phpcpd": "^2.0",
+                    "squizlabs/php_codesniffer": "^2.5"
+                },
+                "time": "2022-12-19T14:02:41+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Xtento\\PdfCustomizer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "XTENTO GmbH & Co. KG",
+                        "email": "info@xtento.com",
+                        "homepage": "http://www.xtento.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "XTENTO PDF Customizer to customize invoice PDFs and more",
+                "support": {
+                    "email": "info@xtento.com",
+                    "source": "https://github.com/Bellyfashion/xtento_pdfcustomizer/tree/develop",
+                    "issues": "https://github.com/Bellyfashion/xtento_pdfcustomizer/issues"
+                }
+            },
+            "dev-main": {
+                "name": "bellyfashion/xtento-pdfcustomizer",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Bellyfashion/xtento_pdfcustomizer.git",
+                    "reference": "8ee6273eb62fa4b8aac55bf1e81703eccbb4d1a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/xtento_pdfcustomizer/zipball/8ee6273eb62fa4b8aac55bf1e81703eccbb4d1a1",
+                    "reference": "8ee6273eb62fa4b8aac55bf1e81703eccbb4d1a1",
+                    "shasum": ""
+                },
+                "require": {
+                    "bellyfashion/xtento-xtcore": "~2.0",
+                    "magento/framework": "^100.0||^101.0||^102.0||^103.0",
+                    "magento/module-backend": "^100.0||^101.0||^102.0",
+                    "magento/module-sales": "^100.0||^101.0||^102.0||^103.0",
+                    "mpdf/mpdf": "^8.0",
+                    "mpdf/qrcode": "^1.0",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0"
+                },
+                "require-dev": {
+                    "phpmd/phpmd": "^2.3",
+                    "phpunit/phpunit": "^4.8",
+                    "satooshi/php-coveralls": "^1.0",
+                    "sebastian/phpcpd": "^2.0",
+                    "squizlabs/php_codesniffer": "^2.5"
+                },
+                "time": "2022-12-19T14:02:41+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Xtento\\PdfCustomizer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "XTENTO GmbH & Co. KG",
+                        "email": "info@xtento.com",
+                        "homepage": "http://www.xtento.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "XTENTO PDF Customizer to customize invoice PDFs and more",
+                "support": {
+                    "email": "info@xtento.com",
+                    "source": "https://github.com/Bellyfashion/xtento_pdfcustomizer/tree/2.14.3.1",
+                    "issues": "https://github.com/Bellyfashion/xtento_pdfcustomizer/issues"
+                }
+            }
+        },
+        "bellyfashion/xtento-productexport": {
+            "2.15.3.1": {
+                "name": "bellyfashion/xtento-productexport",
+                "version": "2.15.3.1",
+                "version_normalized": "2.15.3.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Bellyfashion/xtento_productexport.git",
+                    "reference": "cfc6f55b19d8ce55cd1a688be96378ec34edc4aa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/xtento_productexport/zipball/cfc6f55b19d8ce55cd1a688be96378ec34edc4aa",
+                    "reference": "cfc6f55b19d8ce55cd1a688be96378ec34edc4aa",
+                    "shasum": ""
+                },
+                "require": {
+                    "bellyfashion/xtento-xtcore": "~2.0",
+                    "ext-xsl": "*",
+                    "magento/framework": "^100.0||^101.0||^102.0||^103.0",
+                    "magento/module-backend": "^100.0||^101.0||^102.0",
+                    "magento/module-catalog": "^100.0||^101.0||^102.0||^103.0||^104.0",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0"
+                },
+                "time": "2022-12-19T14:08:20+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Xtento\\ProductExport\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "XTENTO GmbH & Co. KG",
+                        "email": "info@xtento.com",
+                        "homepage": "http://www.xtento.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "XTENTO Product Export Module",
+                "support": {
+                    "email": "info@xtento.com",
+                    "source": "https://github.com/Bellyfashion/xtento_productexport/tree/2.15.3.1",
+                    "issues": "https://github.com/Bellyfashion/xtento_productexport/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "bellyfashion/xtento-productexport",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Bellyfashion/xtento_productexport.git",
+                    "reference": "ece7db97f6257633d1b47bd628e48bf4a36c3193"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/xtento_productexport/zipball/ece7db97f6257633d1b47bd628e48bf4a36c3193",
+                    "reference": "ece7db97f6257633d1b47bd628e48bf4a36c3193",
+                    "shasum": ""
+                },
+                "require": {
+                    "bellyfashion/xtento-xtcore": "~2.0",
+                    "ext-xsl": "*",
+                    "magento/framework": "^100.0||^101.0||^102.0||^103.0",
+                    "magento/module-backend": "^100.0||^101.0||^102.0",
+                    "magento/module-catalog": "^100.0||^101.0||^102.0||^103.0||^104.0",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0"
+                },
+                "time": "2022-12-19T14:08:20+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Xtento\\ProductExport\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "XTENTO GmbH & Co. KG",
+                        "email": "info@xtento.com",
+                        "homepage": "http://www.xtento.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "XTENTO Product Export Module",
+                "support": {
+                    "email": "info@xtento.com",
+                    "source": "https://github.com/Bellyfashion/xtento_productexport/tree/develop",
+                    "issues": "https://github.com/Bellyfashion/xtento_productexport/issues"
+                }
+            },
+            "dev-main": {
+                "name": "bellyfashion/xtento-productexport",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Bellyfashion/xtento_productexport.git",
+                    "reference": "cfc6f55b19d8ce55cd1a688be96378ec34edc4aa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/xtento_productexport/zipball/cfc6f55b19d8ce55cd1a688be96378ec34edc4aa",
+                    "reference": "cfc6f55b19d8ce55cd1a688be96378ec34edc4aa",
+                    "shasum": ""
+                },
+                "require": {
+                    "bellyfashion/xtento-xtcore": "~2.0",
+                    "ext-xsl": "*",
+                    "magento/framework": "^100.0||^101.0||^102.0||^103.0",
+                    "magento/module-backend": "^100.0||^101.0||^102.0",
+                    "magento/module-catalog": "^100.0||^101.0||^102.0||^103.0||^104.0",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0"
+                },
+                "time": "2022-12-19T14:08:20+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Xtento\\ProductExport\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "XTENTO GmbH & Co. KG",
+                        "email": "info@xtento.com",
+                        "homepage": "http://www.xtento.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "XTENTO Product Export Module",
+                "support": {
+                    "email": "info@xtento.com",
+                    "source": "https://github.com/Bellyfashion/xtento_productexport/tree/2.15.3.1",
+                    "issues": "https://github.com/Bellyfashion/xtento_productexport/issues"
+                }
+            }
+        },
+        "bellyfashion/xtento-xtcore": {
+            "dev-develop": {
+                "name": "bellyfashion/xtento-xtcore",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Bellyfashion/xtento_xtcore.git",
+                    "reference": "4f5437c14f25aa105327966daad352de27fb33b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/xtento_xtcore/zipball/4f5437c14f25aa105327966daad352de27fb33b1",
+                    "reference": "4f5437c14f25aa105327966daad352de27fb33b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^102.0||^103.0",
+                    "magento/module-backend": "^101.0||^102.0",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0"
+                },
+                "time": "2022-12-19T13:53:17+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Xtento\\XtCore\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "XTENTO GmbH & Co. KG",
+                        "email": "info@xtento.com",
+                        "homepage": "http://www.xtento.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "XTENTO Core Module",
+                "support": {
+                    "email": "info@xtento.com",
+                    "source": "https://github.com/Bellyfashion/xtento_xtcore/tree/develop",
+                    "issues": "https://github.com/Bellyfashion/xtento_xtcore/issues"
+                }
+            },
+            "dev-main": {
+                "name": "bellyfashion/xtento-xtcore",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Bellyfashion/xtento_xtcore.git",
+                    "reference": "c49de0d82ffa8ecfd2905d597be59fa153e53768"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/xtento_xtcore/zipball/c49de0d82ffa8ecfd2905d597be59fa153e53768",
+                    "reference": "c49de0d82ffa8ecfd2905d597be59fa153e53768",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^102.0||^103.0",
+                    "magento/module-backend": "^101.0||^102.0",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0"
+                },
+                "time": "2022-12-19T13:53:17+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Xtento\\XtCore\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "XTENTO GmbH & Co. KG",
+                        "email": "info@xtento.com",
+                        "homepage": "http://www.xtento.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "XTENTO Core Module",
+                "support": {
+                    "email": "info@xtento.com",
+                    "source": "https://github.com/Bellyfashion/xtento_xtcore/tree/main",
+                    "issues": "https://github.com/Bellyfashion/xtento_xtcore/issues"
+                }
+            }
+        }
+    }
+}
