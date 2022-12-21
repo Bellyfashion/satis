@@ -51,6 +51,57 @@
                     "source": "https://github.com/Bellyfashion/Bellyfashion_M2_DisablePayment/tree/1.0.0",
                     "issues": "https://github.com/Bellyfashion/Bellyfashion_M2_DisablePayment/issues"
                 }
+            },
+            {
+                "name": "bellyfashion/disablepayment",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Bellyfashion/Bellyfashion_M2_DisablePayment.git",
+                    "reference": "ae7c0df54e0412a5e67148e3896d43b5b541c5b2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/Bellyfashion_M2_DisablePayment/zipball/ae7c0df54e0412a5e67148e3896d43b5b541c5b2",
+                    "reference": "ae7c0df54e0412a5e67148e3896d43b5b541c5b2",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^100.1|^101.0|^102.0|^103.0",
+                    "php": ">=7.3.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2022-12-21T12:38:27+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Bellyfashion\\DisablePayment\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Hans Kuijpers",
+                        "email": "info@hkweb.nl",
+                        "homepage": "https://hkweb.nl",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Magento 2 module to disable frontend payment methods CheckMoneyOrder and CashOnDelivery",
+                "homepage": "https://github.com/Bellyfashion/Bellyfashion_M2_DisablePayment",
+                "support": {
+                    "source": "https://github.com/Bellyfashion/Bellyfashion_M2_DisablePayment/tree/1.0.1",
+                    "issues": "https://github.com/Bellyfashion/Bellyfashion_M2_DisablePayment/issues"
+                }
             }
         ]
     }
