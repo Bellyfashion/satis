@@ -110,12 +110,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Bellyfashion/Bellyfashion_M2_DisablePayment.git",
-                    "reference": "c5d34a01a21ae1bd938c4f6d3610c0290d61f500"
+                    "reference": "6ff859a330722c6853e5a6833a5ac76f8b15ea17"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Bellyfashion/Bellyfashion_M2_DisablePayment/zipball/c5d34a01a21ae1bd938c4f6d3610c0290d61f500",
-                    "reference": "c5d34a01a21ae1bd938c4f6d3610c0290d61f500",
+                    "url": "https://api.github.com/repos/Bellyfashion/Bellyfashion_M2_DisablePayment/zipball/6ff859a330722c6853e5a6833a5ac76f8b15ea17",
+                    "reference": "6ff859a330722c6853e5a6833a5ac76f8b15ea17",
                     "shasum": ""
                 },
                 "require": {
@@ -126,7 +126,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2022-12-21T12:38:26+00:00",
+                "time": "2022-12-21T12:53:00+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "psr-4": {
@@ -161,12 +161,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:Bellyfashion/Bellyfashion_M2_DisablePayment.git",
-                    "reference": "ae7c0df54e0412a5e67148e3896d43b5b541c5b2"
+                    "reference": "4cc8cd4c50d62c0d0557033ce5ce6cd93b8ce9c0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Bellyfashion/Bellyfashion_M2_DisablePayment/zipball/ae7c0df54e0412a5e67148e3896d43b5b541c5b2",
-                    "reference": "ae7c0df54e0412a5e67148e3896d43b5b541c5b2",
+                    "url": "https://api.github.com/repos/Bellyfashion/Bellyfashion_M2_DisablePayment/zipball/4cc8cd4c50d62c0d0557033ce5ce6cd93b8ce9c0",
+                    "reference": "4cc8cd4c50d62c0d0557033ce5ce6cd93b8ce9c0",
                     "shasum": ""
                 },
                 "require": {
@@ -177,7 +177,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2022-12-21T12:38:27+00:00",
+                "time": "2022-12-21T12:53:00+00:00",
                 "default-branch": true,
                 "type": "magento2-module",
                 "autoload": {
@@ -202,7 +202,7 @@
                 "description": "Magento 2 module to disable frontend payment methods CheckMoneyOrder and CashOnDelivery",
                 "homepage": "https://github.com/Bellyfashion/Bellyfashion_M2_DisablePayment",
                 "support": {
-                    "source": "https://github.com/Bellyfashion/Bellyfashion_M2_DisablePayment/tree/1.0.1",
+                    "source": "https://github.com/Bellyfashion/Bellyfashion_M2_DisablePayment/tree/1.0.2",
                     "issues": "https://github.com/Bellyfashion/Bellyfashion_M2_DisablePayment/issues"
                 }
             }
