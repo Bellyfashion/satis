@@ -1,0 +1,124 @@
+{
+    "packages": {
+        "xtento/module-pdfcustomizer": [
+            {
+                "name": "xtento/module-pdfcustomizer",
+                "version": "2.14.3.1",
+                "version_normalized": "2.14.3.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Bellyfashion/xtento_pdfcustomizer.git",
+                    "reference": "8ee6273eb62fa4b8aac55bf1e81703eccbb4d1a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/xtento_pdfcustomizer/zipball/8ee6273eb62fa4b8aac55bf1e81703eccbb4d1a1",
+                    "reference": "8ee6273eb62fa4b8aac55bf1e81703eccbb4d1a1",
+                    "shasum": ""
+                },
+                "require": {
+                    "bellyfashion/xtento-xtcore": "~2.0",
+                    "magento/framework": "^100.0||^101.0||^102.0||^103.0",
+                    "magento/module-backend": "^100.0||^101.0||^102.0",
+                    "magento/module-sales": "^100.0||^101.0||^102.0||^103.0",
+                    "mpdf/mpdf": "^8.0",
+                    "mpdf/qrcode": "^1.0",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0"
+                },
+                "require-dev": {
+                    "phpmd/phpmd": "^2.3",
+                    "phpunit/phpunit": "^4.8",
+                    "satooshi/php-coveralls": "^1.0",
+                    "sebastian/phpcpd": "^2.0",
+                    "squizlabs/php_codesniffer": "^2.5"
+                },
+                "time": "2022-12-19T14:02:41+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Xtento\\PdfCustomizer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "XTENTO GmbH & Co. KG",
+                        "email": "info@xtento.com",
+                        "homepage": "http://www.xtento.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "XTENTO PDF Customizer to customize invoice PDFs and more",
+                "support": {
+                    "email": "info@xtento.com",
+                    "source": "https://github.com/Bellyfashion/xtento_pdfcustomizer/tree/2.14.3.1",
+                    "issues": "https://github.com/Bellyfashion/xtento_pdfcustomizer/issues"
+                }
+            },
+            {
+                "name": "xtento/module-pdfcustomizer",
+                "version": "2.15.6",
+                "version_normalized": "2.15.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Bellyfashion/xtento_pdfcustomizer.git",
+                    "reference": "d4631cfeb1fd71fb1f0bfb32fd779d49cf8baeef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/xtento_pdfcustomizer/zipball/d4631cfeb1fd71fb1f0bfb32fd779d49cf8baeef",
+                    "reference": "d4631cfeb1fd71fb1f0bfb32fd779d49cf8baeef",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^102.0||^103.0",
+                    "magento/module-backend": "^101.0||^102.0",
+                    "magento/module-sales": "^102.0||^103.0",
+                    "mpdf/mpdf": "^8.0",
+                    "mpdf/qrcode": "^1.0",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0",
+                    "xtento/module-xtcore": "~2.0"
+                },
+                "require-dev": {
+                    "phpmd/phpmd": "^2.3",
+                    "phpunit/phpunit": "^4.8",
+                    "satooshi/php-coveralls": "^1.0",
+                    "sebastian/phpcpd": "^2.0",
+                    "squizlabs/php_codesniffer": "^2.5"
+                },
+                "time": "2023-12-27T10:52:34+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Xtento\\PdfCustomizer\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "XTENTO GmbH & Co. KG",
+                        "email": "info@xtento.com",
+                        "homepage": "http://www.xtento.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "XTENTO PDF Customizer to customize invoice PDFs and more",
+                "support": {
+                    "email": "info@xtento.com",
+                    "source": "https://github.com/Bellyfashion/xtento_pdfcustomizer/tree/2.15.6",
+                    "issues": "https://github.com/Bellyfashion/xtento_pdfcustomizer/issues"
+                }
+            }
+        ]
+    }
+}

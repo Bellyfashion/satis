@@ -1,0 +1,102 @@
+{
+    "packages": {
+        "xtento/module-xtcore": [
+            {
+                "name": "xtento/module-xtcore",
+                "version": "2.17.0.1",
+                "version_normalized": "2.17.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Bellyfashion/xtento_xtcore.git",
+                    "reference": "c49de0d82ffa8ecfd2905d597be59fa153e53768"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/xtento_xtcore/zipball/c49de0d82ffa8ecfd2905d597be59fa153e53768",
+                    "reference": "c49de0d82ffa8ecfd2905d597be59fa153e53768",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^102.0||^103.0",
+                    "magento/module-backend": "^101.0||^102.0",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0"
+                },
+                "time": "2022-12-19T13:53:17+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Xtento\\XtCore\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "XTENTO GmbH & Co. KG",
+                        "email": "info@xtento.com",
+                        "homepage": "http://www.xtento.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "XTENTO Core Module",
+                "support": {
+                    "email": "info@xtento.com",
+                    "source": "https://github.com/Bellyfashion/xtento_xtcore/tree/2.17.0.1",
+                    "issues": "https://github.com/Bellyfashion/xtento_xtcore/issues"
+                }
+            },
+            {
+                "name": "xtento/module-xtcore",
+                "version": "2.19.0",
+                "version_normalized": "2.19.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:Bellyfashion/xtento_xtcore.git",
+                    "reference": "ab8aa1376258df6eecac58d0a778953ec78a7f5e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/xtento_xtcore/zipball/ab8aa1376258df6eecac58d0a778953ec78a7f5e",
+                    "reference": "ab8aa1376258df6eecac58d0a778953ec78a7f5e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "^102.0||^103.0",
+                    "magento/module-backend": "^101.0||^102.0",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0"
+                },
+                "time": "2023-12-27T10:53:18+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Xtento\\XtCore\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "XTENTO GmbH & Co. KG",
+                        "email": "info@xtento.com",
+                        "homepage": "http://www.xtento.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "XTENTO Core Module",
+                "support": {
+                    "email": "info@xtento.com",
+                    "source": "https://github.com/Bellyfashion/xtento_xtcore/tree/2.19.0",
+                    "issues": "https://github.com/Bellyfashion/xtento_xtcore/issues"
+                }
+            }
+        ]
+    }
+}
