@@ -258,6 +258,93 @@
                 }
             }
         },
+        "bellyfashion/mageplaza-magento-2-dutch-informal-language-pack": {
+            "dev-develop": {
+                "name": "bellyfashion/mageplaza-magento-2-dutch-informal-language-pack",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/magento-2-dutch-informal-language-pack.git",
+                    "reference": "a0a833527647594c4785749423f62f0dae6b6d3c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/magento-2-dutch-informal-language-pack/zipball/a0a833527647594c4785749423f62f0dae6b6d3c",
+                    "reference": "a0a833527647594c4785749423f62f0dae6b6d3c",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.13"
+                },
+                "time": "2023-12-27T11:25:45+00:00",
+                "type": "magento2-language",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza team",
+                        "email": "hi@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Leader"
+                    }
+                ],
+                "description": "Dutch Informal language package for Magento 2",
+                "homepage": "https://www.mageplaza.com",
+                "support": {
+                    "source": "https://github.com/Bellyfashion/magento-2-dutch-informal-language-pack/tree/develop"
+                }
+            },
+            "dev-master": {
+                "name": "bellyfashion/mageplaza-magento-2-dutch-informal-language-pack",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/magento-2-dutch-informal-language-pack.git",
+                    "reference": "cbcd5953b5c3efba4f319a62beb958e64a7da94b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/magento-2-dutch-informal-language-pack/zipball/cbcd5953b5c3efba4f319a62beb958e64a7da94b",
+                    "reference": "cbcd5953b5c3efba4f319a62beb958e64a7da94b",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.3.13"
+                },
+                "time": "2024-01-11T10:45:21+00:00",
+                "default-branch": true,
+                "type": "magento2-language",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza team",
+                        "email": "hi@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Leader"
+                    }
+                ],
+                "description": "Dutch Informal language package for Magento 2",
+                "homepage": "https://www.mageplaza.com",
+                "support": {
+                    "source": "https://github.com/Bellyfashion/magento-2-dutch-informal-language-pack/tree/master"
+                }
+            }
+        },
         "bellyfashion/mageplaza-magento-2-dutch-language-pack": {
             "1.3.13.2": {
                 "name": "bellyfashion/mageplaza-magento-2-dutch-language-pack",
@@ -342,93 +429,6 @@
                 "homepage": "https://www.mageplaza.com",
                 "support": {
                     "source": "https://github.com/Bellyfashion/Bellyfashion_M2_Dutch_Language_Pack/tree/1.3.13.2"
-                }
-            }
-        },
-        "mageplaza/magento-2-dutch-informal-language-pack": {
-            "dev-develop": {
-                "name": "mageplaza/magento-2-dutch-informal-language-pack",
-                "version": "dev-develop",
-                "version_normalized": "dev-develop",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/Bellyfashion/magento-2-dutch-informal-language-pack.git",
-                    "reference": "a0a833527647594c4785749423f62f0dae6b6d3c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/Bellyfashion/magento-2-dutch-informal-language-pack/zipball/a0a833527647594c4785749423f62f0dae6b6d3c",
-                    "reference": "a0a833527647594c4785749423f62f0dae6b6d3c",
-                    "shasum": ""
-                },
-                "require": {
-                    "mageplaza/module-core": "^1.3.13"
-                },
-                "time": "2023-12-27T11:25:45+00:00",
-                "type": "magento2-language",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ]
-                },
-                "license": [
-                    "MIT"
-                ],
-                "authors": [
-                    {
-                        "name": "Mageplaza team",
-                        "email": "hi@mageplaza.com",
-                        "homepage": "https://www.mageplaza.com",
-                        "role": "Leader"
-                    }
-                ],
-                "description": "Dutch Informal language package for Magento 2",
-                "homepage": "https://www.mageplaza.com",
-                "support": {
-                    "source": "https://github.com/Bellyfashion/magento-2-dutch-informal-language-pack/tree/develop"
-                }
-            },
-            "dev-master": {
-                "name": "mageplaza/magento-2-dutch-informal-language-pack",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/Bellyfashion/magento-2-dutch-informal-language-pack.git",
-                    "reference": "923f0fa62b6a2d4c8d2e85e5f642281be8dbda7a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/Bellyfashion/magento-2-dutch-informal-language-pack/zipball/923f0fa62b6a2d4c8d2e85e5f642281be8dbda7a",
-                    "reference": "923f0fa62b6a2d4c8d2e85e5f642281be8dbda7a",
-                    "shasum": ""
-                },
-                "require": {
-                    "mageplaza/module-core": "^1.3.13"
-                },
-                "time": "2024-01-11T10:28:08+00:00",
-                "default-branch": true,
-                "type": "magento2-language",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ]
-                },
-                "license": [
-                    "MIT"
-                ],
-                "authors": [
-                    {
-                        "name": "Mageplaza team",
-                        "email": "hi@mageplaza.com",
-                        "homepage": "https://www.mageplaza.com",
-                        "role": "Leader"
-                    }
-                ],
-                "description": "Dutch Informal language package for Magento 2",
-                "homepage": "https://www.mageplaza.com",
-                "support": {
-                    "source": "https://github.com/Bellyfashion/magento-2-dutch-informal-language-pack/tree/master"
                 }
             }
         },
