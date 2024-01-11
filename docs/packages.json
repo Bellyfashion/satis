@@ -1,14 +1,15 @@
 {
     "packages": [],
     "includes": {
-        "include/all$5fd7b5ae6a4a181aff324ca3069e1f716a6bfd4f.json": {
-            "sha1": "5fd7b5ae6a4a181aff324ca3069e1f716a6bfd4f"
+        "include/all$74f728c2ec9a02b29c3f7893aaf7f4cdab160610.json": {
+            "sha1": "74f728c2ec9a02b29c3f7893aaf7f4cdab160610"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
         "bellyfashion/disablepayment",
         "bellyfashion/mageplaza-magento-2-dutch-language-pack",
+        "mageplaza/magento-2-dutch-informal-language-pack",
         "xtento/module-pdfcustomizer",
         "xtento/module-productexport",
         "xtento/module-xtcore"

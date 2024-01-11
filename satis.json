@@ -21,6 +21,10 @@
     {
       "type": "vcs",
       "url": "git@github.com:Bellyfashion/xtento_xtcore.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:Bellyfashion/magento-2-dutch-informal-language-pack.git"
     }
   ],
   "require-all": true
