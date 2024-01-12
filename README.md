@@ -1,4 +1,4 @@
-# Textielstad Composer Repository
+# Bellyfashion Composer Repository
 
 https://bellyfashion.github.io/satis/
 
