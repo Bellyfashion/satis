@@ -20,7 +20,7 @@
     },
     {
       "type": "vcs",
-      "url": "git@github.com:Bellyfashion/magento-2-dutch-informal-language-pack.git"
+      "url": "git@github.com:Bellyfashion/language-nl_NL.git"
     }
   ],
   "require-all": true
