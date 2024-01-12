@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/Bellyfashion/language-nl_NL.git",
-                    "reference": "e0c9305c4b1cfa00b5a6fe56663da8a3300a8e47"
+                    "reference": "feea43eff60ac3c46032b539c7b1e4bdb43c63bf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/Bellyfashion/language-nl_NL/zipball/e0c9305c4b1cfa00b5a6fe56663da8a3300a8e47",
-                    "reference": "e0c9305c4b1cfa00b5a6fe56663da8a3300a8e47",
+                    "url": "https://api.github.com/repos/Bellyfashion/language-nl_NL/zipball/feea43eff60ac3c46032b539c7b1e4bdb43c63bf",
+                    "reference": "feea43eff60ac3c46032b539c7b1e4bdb43c63bf",
                     "shasum": ""
                 },
                 "require": {
                     "magento/framework": "*"
                 },
-                "time": "2024-01-12T14:12:19+00:00",
+                "time": "2024-01-12T14:32:55+00:00",
                 "default-branch": true,
                 "type": "magento2-language",
                 "autoload": {
@@ -33,7 +33,7 @@
                 ],
                 "description": "nl_NL language package.",
                 "support": {
-                    "source": "https://github.com/Bellyfashion/language-nl_NL/tree/0.0.62.2"
+                    "source": "https://github.com/Bellyfashion/language-nl_NL/tree/0.0.62.3"
                 }
             }
         ]
