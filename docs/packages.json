@@ -1,14 +1,14 @@
 {
     "packages": [],
     "includes": {
-        "include/all$02a420651fe03163da530433d7716abbdf6b1083.json": {
-            "sha1": "02a420651fe03163da530433d7716abbdf6b1083"
+        "include/all$0cf2de34c23448bc9dd76a9c798ccae60c21fc31.json": {
+            "sha1": "0cf2de34c23448bc9dd76a9c798ccae60c21fc31"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
+        "bellyfashion/community-engineering-language-nl_nl",
         "bellyfashion/disablepayment",
-        "community-engineering/language-nl_nl",
         "xtento/module-pdfcustomizer",
         "xtento/module-productexport",
         "xtento/module-xtcore"
