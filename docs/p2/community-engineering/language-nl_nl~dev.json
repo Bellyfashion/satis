@@ -33,7 +33,7 @@
                 ],
                 "description": "nl_NL language package.",
                 "support": {
-                    "source": "https://github.com/Bellyfashion/language-nl_NL/tree/master"
+                    "source": "https://github.com/Bellyfashion/language-nl_NL/tree/0.0.62.1"
                 }
             }
         ]
