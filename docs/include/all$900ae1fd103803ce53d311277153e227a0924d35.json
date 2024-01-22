@@ -171,6 +171,40 @@
                     "source": "https://github.com/Bellyfashion/language-nl_NL/tree/0.0.62.5"
                 }
             },
+            "0.0.62.6": {
+                "name": "bellyfashion/community-engineering-language-nl_nl",
+                "version": "0.0.62.6",
+                "version_normalized": "0.0.62.6",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bellyfashion/language-nl_NL.git",
+                    "reference": "5ef4552049114586361f67b6543e3e7e7d440a0f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bellyfashion/language-nl_NL/zipball/5ef4552049114586361f67b6543e3e7e7d440a0f",
+                    "reference": "5ef4552049114586361f67b6543e3e7e7d440a0f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/framework": "*"
+                },
+                "time": "2024-01-22T13:18:07+00:00",
+                "type": "magento2-language",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "nl_NL language package.",
+                "support": {
+                    "source": "https://github.com/Bellyfashion/language-nl_NL/tree/0.0.62.6"
+                }
+            },
             "dev-master": {
                 "name": "bellyfashion/community-engineering-language-nl_nl",
                 "version": "dev-master",
